@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Keep generated demo outputs committed so the GitHub repo shows results.
+# (Sales_Report.xlsx/.pdf, charts, cleaned.xlsx, *.csv are intentionally tracked.)
