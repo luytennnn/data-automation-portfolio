@@ -3,6 +3,8 @@
 **Francisco Pinto Alves Dias** — Data Automation & Dashboard Consultant
 📍 Portugal · ✉️ franciscodias942@gmail.com · 🌐 available for freelance & contract work
 
+🔗 **Live dashboard demo:** https://data-automation-portfolio-sajcxzwvzcxxhwt4ccqx9d.streamlit.app/
+
 I build the boring-but-valuable parts of a data workflow: pull messy data, clean it,
 automate the report, and ship a dashboard a manager can actually read. Below are five
 self-contained projects — each runs end to end on synthetic (but realistic) demo data,
@@ -11,7 +13,7 @@ each has its own README, and each was tested before being committed.
 | # | Project | What a client gets | Stack |
 |---|---------|--------------------|-------|
 | 01 | [Automated Sales Report Generator](01-automated-report-generator) | One command → formatted multi-sheet **Excel** + print-ready **PDF** with charts. Schedulable (Task Scheduler). | Python · Pandas · XlsxWriter · Matplotlib · ReportLab |
-| 02 | [Interactive Sales Dashboard](02-sales-dashboard-streamlit) | Live filterable web dashboard — KPI cards, trends, CSV export. Deployable to Streamlit Cloud (shareable link). | Streamlit · Plotly · Pandas |
+| 02 | [Interactive Sales Dashboard](02-sales-dashboard-streamlit) · [🔗 live](https://data-automation-portfolio-sajcxzwvzcxxhwt4ccqx9d.streamlit.app/) | Live filterable web dashboard — KPI cards, trends, CSV export. **Deployed on Streamlit Cloud.** | Streamlit · Plotly · Pandas |
 | 03 | [Excel Data Cleaner & Formatter](03-excel-cleaner) | Messy spreadsheet → clean, formatted Excel + an automatic change-log sheet. | Python · openpyxl · Pandas |
 | 04 | [Power BI Sales Analytics Model](04-powerbi-sales-dashboard) | Star-schema model + documented DAX library (YTD, YoY, margin, running totals). | Power BI · DAX · star schema |
 | 05 | [Amazon Price & Competitor Analyzer](05-amazon-price-analyzer) | One-click scraper bookmarklet → instant price-vs-rating dashboard, 100% in-browser. | JavaScript · HTML/Canvas · Node (tests) |

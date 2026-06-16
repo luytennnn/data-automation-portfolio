@@ -1,5 +1,7 @@
 # 📊 Interactive Sales Dashboard
 
+🔗 **Live demo:** https://data-automation-portfolio-sajcxzwvzcxxhwt4ccqx9d.streamlit.app/
+
 A polished, interactive sales analytics dashboard built with **Streamlit** and **Plotly**. Upload-free, deploy-ready, and fully interactive — pick a date range, slice by region, category and channel, and watch the KPIs and charts update in real time.
 
 > Built as a portfolio piece for **Data Automation & Dashboard Consulting**. The data is **synthetic demo data** generated with a seeded script — no real customers involved.
