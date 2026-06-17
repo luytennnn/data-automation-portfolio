@@ -83,4 +83,4 @@ Then open the URL Streamlit prints (default http://localhost:8501).
 - The data layer is decoupled from Streamlit, making it easy to swap in a real database or a different front end later.
 
 ---
-*Part of the [Data Automation & Dashboard portfolio](../README.md) — Francisco Pinto Alves Dias · franciscodias942@gmail.com*
+*Part of the [Data Automation & Dashboard portfolio](../README.md) — · franciscodias942@gmail.com*
