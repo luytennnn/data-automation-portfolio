@@ -48,4 +48,4 @@ The analyzer parses messy real-world formats: es-ES prices (`1.299,00 €`), US 
   requests to stay polite. Not for bulk/commercial scraping.
 
 ---
-*Part of the Data Automation & Dashboard portfolio — Francisco Pinto Alves Dias · franciscodias942@gmail.com*
+*Part of the Data Automation & Dashboard portfolio —  · franciscodias942@gmail.com*
