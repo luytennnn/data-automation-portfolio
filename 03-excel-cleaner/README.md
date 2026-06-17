@@ -48,4 +48,4 @@ python clean_excel.py --input samples/messy_input.xlsx --output output/cleaned.x
 > **Note:** the sample data is generated synthetic data (`make_messy_file.py`, seeded for reproducibility). No real customer data is included.
 
 ---
-*Part of the [Data Automation & Dashboard portfolio](../README.md) — Francisco Pinto Alves Dias · franciscodias942@gmail.com*
+*Part of the [Data Automation & Dashboard portfolio](../README.md) — · franciscodias942@gmail.com*
