@@ -1,6 +1,6 @@
 # Data Automation & Dashboard — Portfolio
 
-**Francisco Pinto Alves Dias** — Data Automation & Dashboard Consultant
+**Francisco ** — Data Automation & Dashboard Consultant
 📍 Portugal · ✉️ franciscodias942@gmail.com · 🌐 available for freelance & contract work
 
 🔗 **Live dashboard demo:** https://data-automation-portfolio-sajcxzwvzcxxhwt4ccqx9d.streamlit.app/
