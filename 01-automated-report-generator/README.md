@@ -89,4 +89,4 @@ In production you would point `INPUT_CSV` at the top of `generate_report.py` to 
 ```
 
 ---
-*Part of the [Data Automation & Dashboard portfolio](../README.md) — Francisco Pinto Alves Dias · franciscodias942@gmail.com*
+*Part of the [Data Automation & Dashboard portfolio](../README.md) — · franciscodias942@gmail.com*
