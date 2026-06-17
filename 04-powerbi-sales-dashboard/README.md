@@ -106,4 +106,4 @@ Desktop, then point it at the imported model and lay out the visuals above.
 > realistic retail scenario. It contains no real customers, stores, or sales.
 
 ---
-*Part of the [Data Automation & Dashboard portfolio](../README.md) — Francisco Pinto Alves Dias · franciscodias942@gmail.com*
+*Part of the [Data Automation & Dashboard portfolio](../README.md) —  · franciscodias942@gmail.com*
